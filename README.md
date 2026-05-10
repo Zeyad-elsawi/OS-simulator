@@ -2,7 +2,7 @@
 
 A **clock-driven operating system simulator** written in C: multiprogramming with simulated RAM, demand paging (swap to disk), process scheduling, and synchronization primitives. An optional **Python + CustomTkinter** GUI visualizes the simulator’s trace as a timeline.
 
-**Repository:** [github.com/Zeyad-elsawi/OS-simulator](https://github.com/Zeyad-elsawi/OS-simulator)
+
 
 **Demo video:** [os_demo.mkv on Google Drive](https://drive.google.com/file/d/1-rv7xTZBXmCMT2rRHBpIYc48wlYbBm1_/view?usp=sharing)
 
