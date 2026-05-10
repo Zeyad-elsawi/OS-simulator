@@ -1,0 +1,29 @@
+# CMake / build
+build/
+cmake-build-*/
+
+# Compiled binaries
+*.exe
+*.obj
+*.o
+*.out
+*.ilk
+*.pdb
+
+# Swap files from simulator runs
+swap_*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
