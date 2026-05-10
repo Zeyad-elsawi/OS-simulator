@@ -4,6 +4,8 @@ A **clock-driven operating system simulator** written in C: multiprogramming wit
 
 **Repository:** [github.com/Zeyad-elsawi/OS-simulator](https://github.com/Zeyad-elsawi/OS-simulator)
 
+**Demo video:** [os_demo.mkv on Google Drive](https://drive.google.com/file/d/1-rv7xTZBXmCMT2rRHBpIYc48wlYbBm1_/view?usp=sharing)
+
 ---
 
 ## Features
